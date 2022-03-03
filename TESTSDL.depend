@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1646318704 source:d:\drive\cpp\testsdl\main.cpp
+	<iostream>
+	<SDL.h>
+	<bits/stdc++.h>
+
